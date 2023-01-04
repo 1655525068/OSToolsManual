@@ -19,5 +19,5 @@
 
 ## windows
 
-- [02_listary-pro](./windows/01_Listary-pro/README.md)
+- [01_listary-pro](./windows/01_Listary-pro/README.md)
 - ...
