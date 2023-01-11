@@ -88,7 +88,7 @@ vim ~/.bash_profile
 ### 添加
 ```sh
 export JAVA_11_HOME=/Library/Java/JavaVirtualMachines/openjdk-11.jdk
-export JAVA_18_HOME=/Library/Java/JavaVirtualMachines/openjdk-17.jdk
+export JAVA_17_HOME=/Library/Java/JavaVirtualMachines/openjdk-17.jdk
 export JAVA_HOME=$JAVA_11_HOME
 
 alias jdk11="export JAVA_HOME=$JAVA_11_HOME"
