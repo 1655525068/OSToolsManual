@@ -13,6 +13,7 @@ brew update
 ```
 
 ## #设置环境变量  以zsh为例
+
 ```sh
 echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles' >> ~/.zshrc
 source ~/.zshrc
@@ -54,7 +55,7 @@ adoptopenjdk               microsoft-openjdk          openkey
 
 ## 安装jdk11
 
-···sh
+```sh
 brew install openjdk@11
 ```
 
@@ -69,23 +70,20 @@ For the system Java wrappers to find this JDK, symlink it with
 
 ## 安装jdk17
 
-
-
-
-
 ## 安装jenv 切换jdk
 
 ```sh
 brew install jenv
 ```
 
-
 ## 配置bash_profile
+
 ```sh
 vim ~/.bash_profile
 ```
 
 ### 添加
+
 ```sh
 export JAVA_11_HOME=/Library/Java/JavaVirtualMachines/openjdk-11.jdk
 export JAVA_17_HOME=/Library/Java/JavaVirtualMachines/openjdk-17.jdk
@@ -97,23 +95,27 @@ alias jdk17="export JAVA_HOME=$JAVA_17_HOME"
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
 ```
+
 ### 执行文件bash_profile
+
 ```sh
 source ~/.bash_profile
 ```
 
-
 ## 在zsh中执行
+
 在~/下创建./zshrc 文件，在文件里添加source ~/.bash_profile命令
 
 ### 查看环境版本
+
 ```sh
 jenv versions
 jenv local 11.0
 java -version
 ```
 
-查看切换后的版本
+### 查看切换后的版本
+
 ```sh
 java -version
 echo $JAVA_HOME

@@ -22,4 +22,3 @@ Tapped 4141 casks (4,213 files, 352MB).
 ==> Moving App 'Firefox.app' to '/Applications/Firefox.app'
 🍺  firefox was successfully installed!
 ```
-
