@@ -1,6 +1,6 @@
 # 安装即时搜索listary-pro
 
-### listary pro安装教程
+## listary pro安装教程
 
 [listary pro下载](https://github.com/1655525068/listary-pro/archive/refs/tags/v1.0.0.zip)
 
