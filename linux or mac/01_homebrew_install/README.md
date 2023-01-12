@@ -6,7 +6,9 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-<font color='red'>Failed to connect to raw.githubusercontent.com port 443: Connection refused</font>
+```sh
+Failed to connect to raw.githubusercontent.com port 443: Connection refused
+```
 
 - 出现上述错误，是因为[raw.githubusercontent.com](http://raw.githubusercontent.com)无法链接，需要配置hosts
 
