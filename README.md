@@ -17,6 +17,7 @@
 - [01_homebrew_install](./linux%20or%20mac/01_homebrew_install/README.md)
 - [01_01_homebrew_firefox](./linux%20or%20mac/01_homebrew_install/01_01_homebrew_firefox/README.md)
 - [01_02_homebrew_jdk](./linux%20or%20mac/01_homebrew_install/01_02_homebrew_jdk/README.md)
+- [01_03_homebrew_node](./linux%20or%20mac/01_homebrew_install/01_03_homebrew_node/README.md)
 - ...
 
 ## windows
