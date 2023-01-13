@@ -22,5 +22,11 @@
 
 ## windows
 
+### 卓越性能设置powshell(管理员)
+
+```sh
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+```
+
 - [01_listary-pro](./windows/01_Listary-pro/README.md)
 - ...
