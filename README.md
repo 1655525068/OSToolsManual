@@ -31,4 +31,5 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 - [00_windows_install](./windows/00_windows_install/README.md)
 - [01_listary-pro](./windows/01_Listary-pro/README.md)
 - [02_scoop_install](./windows/02_scoop_install/README.md)
+- [03_winget_install](./windows/03_winget_install/README.md)
 - ...
