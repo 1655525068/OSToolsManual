@@ -1,4 +1,4 @@
-# Window11 安装遇到各种问题
+# Windows11 安装遇到各种问题
 
 ## 1.powershell（管理员）运行下列指令，强制绕过TPM、RAM、内存、CPU等检查
 
