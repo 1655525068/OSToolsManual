@@ -13,7 +13,7 @@ reg add “HKLM\SYSTEM\Setup\MoSetup” /v “AllowUpgradesWithUnsupportedTPMOrC
 
 ## 2.替换sources中的appraiserres.dll文件
 ### appraiserres.dll文件是Windows10的检查文件，替换Windows11中的安装环境后即可解决
-[appraiserres.dll]()
+[appraiserres.dll](https://github.com/1655525068/OSToolsManual/raw/main/windows/00_windows_install/dll/appraiserres.dll)
 
 - path:Win11_xxxx_xxxxxxxx_Simplified_x64v1>sources>appraiserres.dll
 
