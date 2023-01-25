@@ -21,6 +21,10 @@
 - [01_04_homebrew_office](./linux%20or%20mac/01_homebrew_install/01_04_homebrew_office/README.md)
 - ...
 
+### linux
+
+- [01_resolution](./linux%20or%20mac/linux/01_resolution/README.md)
+
 ## windows
 
 ### 卓越性能设置powshell(管理员)
