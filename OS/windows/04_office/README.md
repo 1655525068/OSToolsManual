@@ -22,3 +22,6 @@ Visio Professional 2019：9BGNQ-K37YR-RQHF2-38RQ3-7VCBB
 
 ### 3、KMS主机地址http://kms.03k.org，然后点击保存，最后点击激活按钮，完成激活。
 office Tool Plus > 激活
+
+
+### 4、[Office-Tool-v6_5_0_0.zip安装包](./Office-Tool-v6_5_0_0.zip)
