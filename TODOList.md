@@ -8,7 +8,6 @@
 
 ```sh
 ## 日语基础-像学方言一样的学（日语提上日程,3月22-27 14:00，报名，6月26准考证打印）网址https://jlpt.neea.cn/index.do
-## salesforce Platform Developer I 认证（07 April 2023 1515H）
 ## java基础（技术先放最后）
 ## js基础（技术先放最后）
 ## 英语基础
