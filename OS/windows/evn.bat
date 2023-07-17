@@ -6,4 +6,6 @@
 @REM Git证书
 git config --system http.sslcainfo "E:\02_environment\Git\mingw64\ssl\certs\ca-bundle.crt"
 git config --system http.sslverify false
-
+@REM 添加身份
+git config --global user.email "1655525068@qq.com"
+git config --global user.name "bochen.wang"
