@@ -1,4 +1,4 @@
-# homebrew 安装office365
+# homebrew 安装 office365
 
 ## Microsoft 365 and Office for Mac
 

@@ -11,7 +11,7 @@ wangbochen@MacBook-Pro-14 ~ % node -v
 v19.4.0
 wangbochen@MacBook-Pro-14 ~ % npm -version
 9.2.0
-wangbochen@MacBook-Pro-14 ~ % npm  
+wangbochen@MacBook-Pro-14 ~ % npm
 ```
 
 ## 查看当前源地址
@@ -22,7 +22,7 @@ wangbochen@MacBook-Pro-14 ~ % npm config get registry
 https://registry.npmjs.org/
 ```
 
-## 安装nrm（管理源地址工具）
+## 安装 nrm（管理源地址工具）
 
 ```sh
 npm install nrm -g
@@ -48,7 +48,7 @@ wangbochen@MacBook-Pro-14 ~ % nrm ls
   npmMirror ---- https://skimdb.npmjs.com/registry/
 ```
 
-## 切换taobao镜像源
+## 切换 taobao 镜像源
 
 ```sh
 nrm use taobao
@@ -62,7 +62,7 @@ npm config get registry
 https://registry.npmmirror.com/
 ```
 
-代替npm工具---yarn
+代替 npm 工具---yarn
 
 ```sh
 npm install yarn -g

@@ -1,8 +1,8 @@
 # 操作系统工具说明，关注不迷路
 
-图片不显示原因是DNS污染导致，修改hosts文件即可完美解决
+图片不显示原因是 DNS 污染导致，修改 hosts 文件即可完美解决
 
-- windows环境打开文件： C:\Windows\System32\drivers\etc\hosts
+- windows 环境打开文件： C:\Windows\System32\drivers\etc\hosts
 - Linux or Mac：/etc/hosts
 
 ```hosts
@@ -27,12 +27,12 @@
 
 ## windows
 
-### 卓越性能设置powshell(管理员)
-
+### 卓越性能设置 powshell(管理员)
 
 ```sh
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
+
 - [00_windows_install](./OS/windows/00_windows_install/README.md)
 - [01_listary-pro](./OS/windows/01_Listary-pro/README.md)
 - [02_scoop_install](./OS/windows/02_scoop_install/README.md)
@@ -40,5 +40,4 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 - [04_office](./OS/windows/04_office/README.md)
 - ...
 
-
- ##  [转换工具aconvert](https://www.aconvert.com/)
+## [转换工具 aconvert](https://www.aconvert.com/)
