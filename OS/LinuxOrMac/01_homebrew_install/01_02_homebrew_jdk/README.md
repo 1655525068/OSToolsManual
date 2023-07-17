@@ -1,6 +1,6 @@
-# homebrew 安装jdk
+# homebrew 安装 jdk
 
-切换homebrew源
+切换 homebrew 源
 
 ```sh
 cd "$(brew --repo)"
@@ -12,7 +12,7 @@ brew update
 
 ```
 
-## #设置环境变量  以zsh为例
+## #设置环境变量 以 zsh 为例
 
 ```sh
 echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles' >> ~/.zshrc
@@ -39,7 +39,7 @@ brew update
 source ~/.zshrc
 ```
 
-## 搜索jdk版本
+## 搜索 jdk 版本
 
 ```sh
 brew search openjdk
@@ -53,7 +53,7 @@ openjdk      openjdk@11   openjdk@17   openjdk@8    openj9       openvdb
 adoptopenjdk               microsoft-openjdk          openkey
 ```
 
-## 安装jdk11
+## 安装 jdk11
 
 ```sh
 brew install openjdk@11
@@ -68,15 +68,15 @@ For the system Java wrappers to find this JDK, symlink it with
   sudo ln -sfn /opt/homebrew/opt/openjdk@11/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
 ```
 
-## 安装jdk17
+## 安装 jdk17
 
-## 安装jenv 切换jdk
+## 安装 jenv 切换 jdk
 
 ```sh
 brew install jenv
 ```
 
-## 配置bash_profile
+## 配置 bash_profile
 
 ```sh
 vim ~/.bash_profile
@@ -96,15 +96,15 @@ export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
 ```
 
-### 执行文件bash_profile
+### 执行文件 bash_profile
 
 ```sh
 source ~/.bash_profile
 ```
 
-## 在zsh中执行
+## 在 zsh 中执行
 
-在~/下创建./zshrc 文件，在文件里添加source ~/.bash_profile命令
+在~/下创建./zshrc 文件，在文件里添加 source ~/.bash_profile 命令
 
 ### 查看环境版本
 

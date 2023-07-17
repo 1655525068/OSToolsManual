@@ -1,4 +1,4 @@
-# homebrew 安装firefox浏览器
+# homebrew 安装 firefox 浏览器
 
 要安装，请拖动此图标……”不会再出现了。使用 Homebrew Cask 安装 macOS 应用程序、字体和插件以及其他非开源软件。
 

@@ -1,6 +1,6 @@
-# winget程序包管理器安装
+# winget 程序包管理器安装
 
-## winget前期准备
+## winget 前期准备
 
 ```sh
 $ProgressPreference='Silent'
