@@ -1,6 +1,9 @@
 @echo off
+setlocal enabledelayedexpansion
+
 @REM 管理员运行cmd
 @REM Git环境变量
+@REM powershell
 [environment]::SetEnvironmentvariable("PATH", "$([environment]::GetEnvironmentvariable("Path", "User"));E:\02_environment\Git\bin", "User")
 [environment]::SetEnvironmentvariable("PATH", "$([environment]::GetEnvironmentvariable("Path", "Machine"));E:\02_environment\Git\bin", "Machine")
 @REM Git证书
