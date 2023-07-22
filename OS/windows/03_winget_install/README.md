@@ -43,3 +43,9 @@ WinGet 命令行实用工具可从命令行安装应用程序和其他程序包�
 
 可在此找到更多帮助： https://aka.ms/winget-command-help
 ```
+## winget 路径指定
+Windows 11 系统已经自带了 winget；winget 安装的包的位置通过 -l 选项指定
+
+```sh
+winget install "software" -l "E:\02_environment\winget"
+```

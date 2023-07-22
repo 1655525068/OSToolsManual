@@ -2,6 +2,12 @@
 
 图片不显示原因是 DNS 污染导致，修改 hosts 文件即可完美解决
 
+## https://www.ipaddress.com/
+
+### raw.githubusercontent.com 搜索ip
+
+粘贴到环境hosts中
+
 - windows 环境打开文件： C:\Windows\System32\drivers\etc\hosts
 - Linux or Mac：/etc/hosts
 
