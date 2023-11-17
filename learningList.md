@@ -11,3 +11,8 @@
 5. [实验楼](https://www.shiyanlou.com)：实验楼是一个以实践为导向的在线编程学习平台，提供了 Java 编程实验课程，学习者可以通过实际操作来掌握 Java 编程技能。
 
 请注意，以上是一些知名的中文网站，提供了 Java 培训的课程和资源。你可以根据个人需求和偏好选择适合自己的网站和课程。
+
+视频
+http://yidian68.com/bofang/93019-1-21.html
+解析
+https://www.taofake.com/tools/tv/
